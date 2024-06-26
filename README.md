@@ -234,6 +234,35 @@ The perfect snack for kids and family.
 11. Finally, serve potato smiles or potato smiley with tomato sauce or eggless mayonnaise and enjoy.
 
 
+# ![image](https://github.com/Yaalpo/kleine-Projekt/assets/44366073/6f2d1036-fa90-485c-8192-0f3de47fe043)
+# Potato Patties
+An easy recipe to make at home.
+
+### Preparation
+Total time: 30 minutes
+
+# Ingrediens
+- 1 1/2 cup leftover mashed potatoes
+- 2 tablespoons milk
+- 1 egg
+- 1/2 teaspoon salt
+- 1 dash black pepper
+- 1/4 cup all-purpose flour
+- 2 teaspoons chopped, fresh herbs
+- 1/4 cup cooking oil
+
+
+# Instructions
+1. Combine the mashed potatoes and milk in a large bowl. Mix well.
+2. Add the egg, salt, pepper, flour, and herbs (if using). Mix until the egg and flour are completely incorporated.
+3. Heat the oil in a large skillet over medium-high heat.
+4. Form the mashed potato mixture into patties. Add the patties to the skillet in a single layer (in batches if necessary). Cook, turning once, until golden brown on each side.
+5. Serve the fried mashed potato patties hot with sour cream or ketchup, if desired.
+
+
+
+
+
 
 
 
