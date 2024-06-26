@@ -8,10 +8,10 @@
 An easy and quick dish, perfect for any meal. This classic omlette combines beaten egs
 cooked to perfection, optionally filled with your choise of cheese, vegetables, or meat.
 
-    Preparation time
-    - Total Approximately 10 minutes
-    - Preparation: 5 minutes
-    - Cooking: 5 minutes
+### Preparation time
+- Total Approximately 10 minutes
+- Preparation: 5 minutes
+- Cooking: 5 minutes
 
 # Ingrediens
 
