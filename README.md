@@ -1,5 +1,4 @@
-    
-  
+
 
 # ![image-omelette](https://github.com/Yaalpo/kleine-Projekt/assets/44366073/5de046ea-375e-4d40-ab65-2a68d140b158)
 
@@ -21,7 +20,7 @@ cooked to perfection, optionally filled with your choise of cheese, vegetables, 
 - 1 tablespoon of butter or oil
 - Optional fillings: cheese, diced vegetables, cooked meats, herbs
 
-# Instructons
+# Instructions
 
 1. Beat the eggs: In a bowl, beat the eggs with a pinch of salt and pepper until they are
 well mixed. You can add a tablespoon of water or milk for a dluffier texture.
