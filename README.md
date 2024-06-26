@@ -1,4 +1,7 @@
 # kleine-Projekt
+
+# ![image-omelette](https://github.com/Yaalpo/kleine-Projekt/assets/44366073/5de046ea-375e-4d40-ab65-2a68d140b158)
+
 # Frontend Mentor - Recipe page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
