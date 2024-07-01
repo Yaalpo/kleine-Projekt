@@ -181,7 +181,7 @@ Total time: 25 minutes
 
 
 # ![image](https://github.com/Yaalpo/kleine-Projekt/assets/44366073/9c7ccb66-0e67-452a-b63b-ef3bebe91afa)
-# Crispy Oven-Baked Ptato Fries
+# Crispy Oven-Baked Potato Fries
 An easy snack to do at home.
 
 
