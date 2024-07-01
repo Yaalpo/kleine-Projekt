@@ -192,7 +192,7 @@ An easy snack to do at home.
 - ¾ tsp. kosher salt, plus more to taste
 - ¼ tsp. freshly ground black pepper, plus more to taste
 
-# Insturctions
+# Instructions
 1. Preheat the oven to 475˚ F.  Place the potato wedges in a large mixing bowl.  Cover with hot water; soak for 10-30 minutes.  Put 4 tablespoons of the oil onto a heavy, rimmed baking sheet.  Tilt the sheet side to side to evenly coat the pan with oil (a pastry brush can also help with this).  Sprinkle the pan evenly with the salt and pepper.  Set aside.
 2. Drain the potatoes.  Spread the wedges out on layers of paper towels or on clean kitchen towels.  Pat dry with additional towels.  Wipe out the now empty bowl so it is dry.  Return the potatoes to the bowl and toss with the remaining 1 tablespoon of oil.  Arrange the potato wedges on the prepared baking sheet in a single layer.  Cover tightly with foil and bake for 5 minutes.  Remove the foil and continue to bake until the bottoms of the potatoes are spotty golden brown, 15-20 minutes, rotating the baking sheet after 10 minutes.  Using a metal spatula and tongs, flip each potato wedge keeping them in a single layer.  Continue baking until the fries are golden and crisp, 5-10 minutes.  Rotate the pan as needed to ensure even browning.
 3. When the fries are finished baking, transfer to a paper-towel lined plate to drain some of the grease.  Season with additional salt and pepper to taste.  Serve warm.
