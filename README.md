@@ -40,7 +40,7 @@ Spaghetti Recipe in Creamy Tomato Sauce is a delicious vegetarian recipe,
 with flavours from fresh tomatoes, garlic and basil, which your kids and family will absolutely love.
 
 ### Preparation time
-- Total time: 40 minues
+- Total time: 40 minutes
 - Preparation: 10 minutes
 - Cooking: 30 minutes
 
