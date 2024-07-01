@@ -10,7 +10,7 @@ cooked to perfection, optionally filled with your choise of cheese, vegetables, 
 - Preparation: 5 minutes
 - Cooking: 5 minutes
 
-# Ingrediens
+# Ingredients
 
 - 2-3 large eggs
 - Salt, to tast
@@ -44,7 +44,7 @@ with flavours from fresh tomatoes, garlic and basil, which your kids and family 
 - Preparation: 10 minutes
 - Cooking: 30 minutes
 
-# Ingrediens
+# Ingredients
 
 - 250 grams Durum Wheat
 - Spaghetti Pasta
@@ -83,22 +83,22 @@ with flavours from fresh tomatoes, garlic and basil, which your kids and family 
 # ![image](https://github.com/Yaalpo/kleine-Projekt/assets/44366073/39f8b05c-cd4d-4e6f-8d59-70a67054b9ed) 
 # Pesto Pasta
 
-Make our filling vegetarian pesto pasta recipe for a quick, family-friendly dish you can throw together with storecupboard ingredients. This supper couldn't be easier.
+Make our filling vegetarian pesto pasta recipe for a quick, family-friendly dish you can throw together with store cupboard ingredients. This supper couldn't be easier.
 
 ### Preparation time
 Total time: 5 minutes
 
-# Ingrediens
+# Ingredients
 - 500g pack spaghetti, fresh or dried
 -  2-3 tbsp pesto from a jar
-- 50g parmesan (or vegetarian alternative), shaved or grated
+- 50g Parmesan (or vegetarian alternative), shaved or grated
 
 # Instructions
 1. Boil spaghetti in a large pan according to pack instructions.
 2. Drain well
-3. Then the pesto and half of the Parmesan in a pan.
+3. Then put the pesto and half of the Parmesan in a pan.
 4. Put spaghetti into the pan and toss well.
-5. Put into a serving bowl, sprinkle with the remining parmesan and enjoy.
+5. Put into a serving bowl, sprinkle with the remaining Parmesan and enjoy.
 
 
 
@@ -114,7 +114,7 @@ This delicious Red Sauce Pasta is a classic! A homemade tomato sauce that takes 
 - Preparation time: 5 minute
 - Cooking time: 25 minutes
 
-# Ingrediens
+# Ingredients
 - 4 tablespoon olive oil
 - 2 large onions (peeled and chopped)
 - 2 red bell peppers (chopped)
@@ -133,7 +133,7 @@ This delicious Red Sauce Pasta is a classic! A homemade tomato sauce that takes 
 1. Add the olive oil to a large frying pan, skillet or saute pan.
 2. Add the onions, bell peppers and salt. Cook these for 10-15 minutes over medium heat until soft.
 3. Add the chopped garlic and oregano, then cook over low heat for a further 5 minutes.
-4. Tip the contents of the pan into the blender or food processor, add the canned tomatoes, sugar and black pepper, then whizz until the sauce ispureed to your liking.
+4. Tip the contents of the pan into the blender or food processor, add the canned tomatoes, sugar and black pepper, then whiz until the sauce is pureed to your liking.
 5. Return the sauce to the pan and bring to a simmer. Cook for 5-10 minutes.
 6. Add the extra virgin olive oil to the sauce just before you add it to the pasta.
 
@@ -156,7 +156,7 @@ The homemade healthy potato chip snack.
 ### Preparation time 
 Total time: 25 minutes
 
-# Ingrediens
+# Ingredients
 - 2 large russet potatoes
 - 1 Tbsp olive oil
 - Salt and black pepper to taste
@@ -184,8 +184,10 @@ Total time: 25 minutes
 # Crispy Oven-Baked Potato Fries
 An easy snack to do at home.
 
+### Preparation
+Total time 75 minutes
 
-# Ingrediens 
+# Ingredients 
 
 - 3 russet potatoes, peeled and cut lengthwise into wedges
 - 5 tbsp. vegetable, canola or peanut oil, divided
@@ -210,7 +212,7 @@ The perfect snack for kids and family.
 - Preparation time: 30 minutes
 - Cooking time: 20 minutes
 
-# Ingrediens
+# Ingredients
 
 - 2 cups boiled potato, grated
 - ¼ cup bread crumbs
@@ -241,7 +243,7 @@ An easy recipe to make at home.
 ### Preparation
 Total time: 30 minutes
 
-# Ingrediens
+# Ingredients
 - 1 1/2 cup leftover mashed potatoes
 - 2 tablespoons milk
 - 1 egg
